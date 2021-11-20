@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # fill in your function names
-FUNCTION=medium-example-1
+FUNCTION=medium-example-function
 WEBSITE=medium-example-web
 
 aws lambda update-function-code --function-name $FUNCTION --zip-file fileb://deployment-pkg.zip
