@@ -14,8 +14,10 @@ via a static website (in AWS Lambda).
 
 ## Detailed How to
 
-* TODO Medium article here
+* [[Python + AWS Lambda + API Gateway] How to set up a complete service? (Medium article)](https://medium.com/@tuergeist/python-aws-lambda-api-gateway-how-to-set-up-a-complete-service-520b9dbe39c)
 
 ## Interesting Links
 
-* 
+* https://pipenv.pypa.io/en/latest/
+* https://docs.aws.amazon.com/cli/latest/reference/lambda/ 
+* https://docs.aws.amazon.com/cli/latest/reference/lambda/create-function.html
