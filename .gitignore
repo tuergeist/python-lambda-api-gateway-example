@@ -1,2 +1,5 @@
 .pytest_cache/
 .idea/
+/requirements.txt
+/website-pkg.zip
+/deployment-pkg.zip
